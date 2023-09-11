@@ -1,0 +1,147 @@
+  .namefam{
+    font-size: 3em;
+    font-weight: 600;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-style: oblique;
+    font-stretch: ultra-expanded;
+    width: min-content;
+}
+.namefam:hover{
+  color: #f7cd22;
+  
+}
+
+
+
+
+  .navbar-toggler:hover{
+    background: #d4ac0a;
+    
+  }
+
+ .home{
+  color:white;
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+  font-size: 1.5em;
+  font-weight: 600;
+  font-style: oblique;
+  font-stretch: ultra-expanded;
+ }
+ .home:hover{
+  color: #f7cd22;
+  text-transform: uppercase;
+ }
+ .events{
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-size: 1.5em;
+    font-weight: 600;
+    font-style: oblique;
+    font-stretch: ultra-expanded;
+  color: white;
+ }
+ .events:hover{
+  color: #f7cd22;
+  text-transform: uppercase;
+ }
+ .travels{
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-size: 1.5em;
+    font-weight: 600;
+    font-style: oblique;
+    font-stretch: ultra-expanded;
+  color: white;
+ }
+ .travels:hover{
+  color: #f7cd22;
+  text-transform: uppercase;
+ }
+ .contact{
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-size: 1.5em;
+    font-weight: 600;
+    font-style: oblique;
+    font-stretch: ultra-expanded;
+  color: white;
+ }
+ .contact:hover{
+  color: #f7cd22;
+  text-transform: uppercase;
+ }
+.cont{
+  background:#ebebeb;
+}
+.house{
+  color: #d2ad16;
+  font-size: 1.5em;
+    font-weight: 600;
+}
+.quote{
+  color:#ab5757;
+  font-size: 1.2em;
+    font-weight: 600;
+}
+.event{
+  background:#dedee3;
+  color: #e4b20c;
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+  font-style: oblique;
+
+}
+.card1{
+  background-color: darkgrey;
+}
+.old{
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-size: 2.5em;
+    font-weight: 600;
+    font-style: oblique;
+    font-stretch: ultra-expanded;
+  color:goldenrod
+}
+.old:hover{
+  transform: scale(1.1);
+}
+.even{
+  font-size: 4em;
+}
+.travelparent{
+  background:#ebebeb;
+}
+
+.pathi{
+  transition: transform .2s;
+  width: 25rem;
+  height: 25rem;
+  margin-bottom: 3em;
+  
+}
+.pathi:hover {
+  transform: scale(1.1);
+}
+
+.aana .raja{
+  transition: transform .2s; 
+  width: 25rem;
+  height: 25rem;
+  margin-bottom: 3em;
+}
+.aana:hover {
+  transform: scale(1.1); 
+}
+
+.raja:hover {
+  transform: scale(1.1); 
+}
+.contact1{
+  background: #dedee3;
+}
+.travelfont{
+  color: #d2ad16;
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+  font-size: 4em;
+  font-style: oblique;
+  font-stretch: ultra-expanded;
+}
+.footer{
+  background: #c09d12;
+}
